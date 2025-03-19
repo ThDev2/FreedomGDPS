@@ -1,17 +1,14 @@
 # FreedomGDPS
 **FreedomGDPS** is a _Geometry Dash Private Server_
 
-# Freedom GDPS (ReBranding)
 ________________________
-
 - NSFW at your own risk
-
 ________________________
 
 Owner: Fless
 Co-Owner: Luktav
 
-Download APK!
+Download Now!
 https://2cm.es/Freedom
 
 Freedom GDBrowser
@@ -31,21 +28,25 @@ ________________________
 
 [For Moderator Freedom GDPS]
 - Delete Other People's Levels Must Permit the Owner
-- Think, Reason 🥰
-- Rate should not be too high if the level is layout or random asf
-- Moderators Don't Be Ego
+- 🤠 
 ________________________
-Community Chat
-FlessGDPS/FlessTeam/FreedomGDPS
+# Community Chat
+FlessTeam/FreedomGDPS
 
-Join WhatsApp Channel 
+*Join WhatsApp Channel*
 https://whatsapp.com/channel/0029Vb2YIzQHQbS0V7EXf434
 
-Join Group Chat WhatsApp 
+*Join Group Chat WhatsApp*
 https://chat.whatsapp.com/Fmh5DoSjbWkBje0ab3RAEF
 
-Discord Server Link
+This WhatsApp Group:
+- Since - 10/09/21
+
+*Discord Server Link*
 https://dsc.gg/flessteam
 
-This Discord Server:
-- Since - 10/09/21 5:57 PM
+This GDPS Server:
+- Since - 28/11/24
+
+ Made With "Freedom" <3
+ 
