@@ -11,6 +11,9 @@ Co-Owner: Luktav
 Download Now!
 https://2cm.es/Freedom
 
+Geode Mod:
+https://github.com/ThDev2/FreedomGDPS/raw/refs/heads/main/freedomgdps.mod.geode
+
 Freedom GDBrowser
 https://fless.ps.fhgdps.com/browser/
 
