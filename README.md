@@ -1,55 +1,61 @@
 # FreedomGDPS
-**FreedomGDPS** is a _Geometry Dash Private Server_
 
-________________________
-- NSFW at your own risk
-________________________
+Welcome to **FreedomGDPS**, a **Geometry Dash Private Server** offering unique gameplay and features.
 
-Owner: Fless
-Co-Owner: Luktav
+---
 
-Download Now!
-https://2cm.es/Freedom
+## ⚠️ NSFW Content
+Use at your own risk. 
 
-Geode Mod:
-https://github.com/ThDev2/FreedomGDPS/raw/refs/heads/main/freedomgdps.mod.geode
+---
 
-Freedom GDBrowser
-https://fless.ps.fhgdps.com/browser/
+## 🎮 Information
 
-Compact Website:
-https://fless.carrd.co
+- **Owner**: Fless  
+- **Co-Owner**: Luktav  
+- **Download the APK**: [Download Here](https://www.upload-apk.com/UqjVv2MrmkcDjVS)  
+- **FGDBrowser**: [Explore Here](https://fless.ps.fhgdps.com/browser/)  
+- **FGDTools**: [Visit Tools](https://fless.rf.gd)  
+- **Database URL**: [Database Access](https://flessgdps.ps.fhgdps.com)  
+- **Geode Mod**: [Download Geode Mod](https://github.com/ThDev2/FreedomGDPS/raw/refs/heads/main/freedomgdps.mod.geode)
 
-URL link (for GDPS switcher): https://flessgdps.ps.fhgdps.com
-________________________
-# Rules On Community
-- If you make a level, it must be above 20s [Update]
-- Don't mess up the Difficulty Level
-- The Standard Rate in Freedom GDPS is "Very" Different from Any GDPS
-- Cursed/scattered Levels
-- Copy level and then remake it can get a rate (but you have to give credit to the original level creator)
+---
 
-[For Moderator Freedom GDPS]
-- Delete Other People's Levels Must Permit the Owner
-- 🤠 
-________________________
-# Community Chat
-FlessTeam/FreedomGDPS
+## 📜 Community Rules
 
-*Join WhatsApp Channel*
-https://whatsapp.com/channel/0029Vb2YIzQHQbS0V7EXf434
+- **Level Creation**: Levels must be longer than 20 seconds.  
+- **Difficulty Balance**: Don't alter the difficulty level beyond reason.  
+- **Rating System**: The standard rating in FreedomGDPS is **"Very Different"** from other GDPS.  
+- **Level Integrity**: Cursed or scattered levels are not allowed.  
+- **Level Remakes**: If you copy a level and remake it, ensure you credit the original creator.
 
-*Join Group Chat WhatsApp*
-https://chat.whatsapp.com/Fmh5DoSjbWkBje0ab3RAEF
+---
 
-This WhatsApp Group:
-- Since - 10/09/21
+## 👮 Moderator Guidelines
 
-*Discord Server Link*
-https://dsc.gg/flessteam
+- Levels can only be deleted with the owner's permission.  
+- Use your authority wisely. 🤠
 
-This GDPS Server:
-- Since - 28/11/24
+---
 
- Made With "Freedom" <3
- 
+## 💬 Community Chat & Support
+
+- **Join Our WhatsApp Channel**: [Click Here](https://whatsapp.com/channel/0029Vb2YIzQHQbS0V7EXf434)  
+- **Join the WhatsApp Group Chat**: [Click Here](https://chat.whatsapp.com/Fmh5DoSjbWkBje0ab3RAEF)  
+  *Group Since*: 10/09/21  
+- **Join Our Discord Server**: [Click Here](https://dsc.gg/flessteam)  
+  *Server Since*: 28/11/24
+
+---
+
+## 💖 Supporting FreedomGDPS
+
+Made with love and "Freedom" ❤️  
+Support us:  
+[Donate on Saweria](https://saweria.co/thiosaputra)  
+[Visit Newgrounds Profile](https://rotenfles777.newgrounds.com/)
+
+---
+
+## 🤪 Fun Fact
+*Mwehehe...* 😉
