@@ -16,7 +16,7 @@ Use at your own risk.
 - **Download the APK**: [Download Here](https://www.upload-apk.com/UqjVv2MrmkcDjVS)  
 - **FGDBrowser**: [Explore Here](https://fless.ps.fhgdps.com/browser/)  
 - **FGDTools**: [Visit Tools](https://fless.rf.gd)  
-- **Database URL**: [Database Access](https://flessgdps.ps.fhgdps.com)  
+- **Database URL**: [Database Access](https://fless.ps.fhgdps.com)  
 - **Geode Mod**: [Download Geode Mod](https://github.com/ThDev2/FreedomGDPS/raw/refs/heads/main/freedomgdps.mod.geode)
 
 ---
