@@ -12,12 +12,11 @@ Use at your own risk.
 ## 🎮 Information
 
 - **Owner**: Fless  
-- **Co-Owner**: Luktav  
+- **Co-Owner**: Zeroxy 
 - **Download the APK**: [Download Here](https://www.upload-apk.com/UqjVv2MrmkcDjVS)  
 - **FGDBrowser**: [Explore Here](https://fless.ps.fhgdps.com/browser/)  
 - **FGDTools**: [Visit Tools](https://fless.rf.gd)  
-- **Database URL**: [Database Access](https://fless.ps.fhgdps.com)  
-- **Geode Mod**: [Download Geode Mod](https://github.com/ThDev2/FreedomGDPS/raw/refs/heads/main/freedomgdps.mod.geode)
+- **Database URL**: [Database Access](https://fless.ps.fhgdps.com)
 
 ---
 
