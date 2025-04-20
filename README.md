@@ -43,9 +43,9 @@ Maybe you’ll find a little home here.
 ## 🧩 Links & Access
 
 - **Download APK**: [Click Here](https://www.upload-apk.com/UqjVv2MrmkcDjVS)  
-- **FGDBrowser**: [Explore](https://fless.ps.fhgdps.com/browser/)  
-- **FGDTools**: [Try Tools](https://fless.rf.gd)  
+- **FGDBrowser**: [Explore](https://fless.ps.fhgdps.com/browser/)   
 - **Database**: [Sometimes Works](https://fless.ps.fhgdps.com)
+- **GDPSHub**: [Rate Us Here](https://gdpshub.com/gdps/2924)
 
 ---
 
@@ -70,7 +70,7 @@ Maybe you’ll find a little home here.
 
 - [WhatsApp Channel](https://whatsapp.com/channel/0029Vb2YIzQHQbS0V7EXf434)  
 - [WhatsApp Group Chat](https://chat.whatsapp.com/Fmh5DoSjbWkBje0ab3RAEF) *(Since 10/09/21)*  
-- [Discord Server](https://dsc.gg/flessteam) *(Since 28/11/24)*
+- [Discord Server](https://discord.gg/YyeZ2Sxjgf) *(Since 28/11/24)*
 
 ---
 
