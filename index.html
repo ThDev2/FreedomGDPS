@@ -5,27 +5,93 @@
     <title>FrGDPS Tools</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="https://i.imgur.com/FiVUvC9.png" type="image/png">
-    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            animation: fadeIn 1.5s ease;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .logo {
+            width: 100px;
+            margin-top: 20px;
+            filter: drop-shadow(0 0 10px #1e90ff);
+            animation: fadeIn 2s ease;
+        }
+        h1 {
+            margin: 20px 0;
+            font-size: 2.5em;
+        }
+        .button-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            max-width: 700px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+        .btn {
+            background-color: #1e90ff;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 10px;
+            transition: 0.4s;
+            display: block;
+            font-size: 1em;
+            box-shadow: 0 0 10px rgba(30, 144, 255, 0.5);
+            position: relative;
+            overflow: hidden;
+            animation: fadeIn 1.5s ease;
+        }
+        .btn:hover {
+            background-color: #4682b4;
+            box-shadow: 0 0 15px rgba(30, 144, 255, 0.9);
+            transform: scale(1.02);
+        }
+        .btn:active {
+            background-color: #357ABD;
+            box-shadow: 0 0 20px rgba(30, 144, 255, 1);
+            transform: scale(0.98);
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #ccc;
+            animation: fadeIn 2s ease;
+        }
+        .heart {
+            color: #ff5e5e;
+        }
+    </style>
 </head>
 <body>
     <img src="https://i.imgur.com/FiVUvC9.png" class="logo" alt="FreedomGDPS Logo">
     <h1>FrGDPS Tools</h1>
 
-    <a href="https://fless.ps.fhgdps.com" class="btn">Halaman Utama</a>
-    <a href="https://fless.ps.fhgdps.com/dashboard/" class="btn">Dashboard</a>
-    <a href="https://fless.ps.fhgdps.com/dashboard/songs/" class="btn">Reupload Lagu</a>
-    <a href="https://fless.ps.fhgdps.com/dashboard/sfxs/" class="btn">Reupload SFX</a>
-    <a href="https://discord.gg/YyeZ2Sxjgf" class="btn">Discord Official</a>
-    <a href="/images/" class="btn">Gudang Punya Fless</a>
-    <a href="https://www.upload-apk.com/UqjVv2MrmkcDjVS" class="btn">Download APK FrGDPS</a>
-    <a href="https://github.com/ThDev2/FreedomGDPS/discussions/1" class="btn">Komentar GitHub</a>
-    <a href="https://github.com/ThDev2/FreedomGDPS" class="btn">Repo GitHub FrGDPS</a>
+    <div class="button-grid">
+        <a href="https://fless.ps.fhgdps.com" class="btn">Halaman Utama</a>
+        <a href="https://fless.ps.fhgdps.com/dashboard/" class="btn">Dashboard</a>
+        <a href="https://fless.ps.fhgdps.com/dashboard/songs/" class="btn">Reupload Lagu</a>
+        <a href="https://fless.ps.fhgdps.com/dashboard/sfxs/" class="btn">Reupload SFX</a>
+        <a href="https://discord.gg/YyeZ2Sxjgf" class="btn">Discord Official</a>
+        <a href="/images/" class="btn">Gudang Punya Fless</a>
+        <a href="https://www.upload-apk.com/UqjVv2MrmkcDjVS" class="btn">Download APK FrGDPS</a>
+        <a href="https://github.com/ThDev2/FreedomGDPS/discussions/1" class="btn">Komentar GitHub</a>
+        <a href="https://github.com/ThDev2/FreedomGDPS" class="btn">Repo GitHub FrGDPS</a>
+        <a href="https://sociabuzz.com/ameliapt" class="btn" style="background-color: #ff69b4;">Beri Dukungan</a>
+    </div>
 
     <footer>
         Dibuat dengan <span class="heart">cinta</span> oleh fless untuk semua freedomers<br>
         Spesial untuk: <strong>Amelia</strong> i love you more each tap!
     </footer>
-
-    <script src="script.js"></script>
 </body>
 </html>
