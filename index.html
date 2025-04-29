@@ -1,97 +1,38 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <title>FrGDPS Tools</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FreedomGDPS Tools</title>
   <link rel="icon" href="https://i.imgur.com/FiVUvC9.png" type="image/png">
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background: #121212;
-      color: #e0e0e0;
-      font-family: 'Poppins', sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      min-height: 100vh;
-      overflow-x: hidden;
-    }
-    header {
-      text-align: center;
-      margin-top: 30px;
-    }
-    .logo {
-      width: 100px;
-      border-radius: 15px;
-      box-shadow: 0 0 10px #00bcd4;
-    }
-    h1 {
-      margin: 10px 0 20px;
-      font-size: 2rem;
-      color: #00bcd4;
-      text-shadow: 0 0 5px #00bcd4;
-    }
-    .button-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-      gap: 15px;
-      width: 90%;
-      max-width: 800px;
-      padding: 20px 0;
-    }
-    .btn {
-      background: #1e1e1e;
-      border: 1px solid #00bcd4;
-      color: #00bcd4;
-      padding: 12px;
-      border-radius: 12px;
-      text-decoration: none;
-      font-size: 0.95rem;
-      transition: 0.3s;
-      box-shadow: 0 0 8px transparent;
-      text-align: center;
-    }
-    .btn:hover {
-      background: #00bcd4;
-      color: #121212;
-      box-shadow: 0 0 15px #00bcd4;
-    }
-    footer {
-      margin-top: auto;
-      text-align: center;
-      font-size: 0.8rem;
-      padding: 20px;
-      color: #777;
-    }
-    .heart {
-      color: #ff5252;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <img src="https://i.imgur.com/FiVUvC9.png" class="logo" alt="FreedomGDPS Logo">
-    <h1>FrGDPS Tools</h1>
-  </header>
+  <div class="container">
+    <header>
+      <img src="https://i.imgur.com/FiVUvC9.png" alt="FreedomGDPS Logo" class="logo" />
+      <h1>FreedomGDPS Tools</h1>
+    </header>
 
-  <div class="button-grid">
-    <a href="https://fless.ps.fhgdps.com" class="btn">Halaman Utama</a>
-    <a href="https://fless.ps.fhgdps.com/dashboard/" class="btn">Dashboard</a>
-    <a href="https://fless.ps.fhgdps.com/dashboard/songs/" class="btn">Reupload Lagu</a>
-    <a href="https://fless.ps.fhgdps.com/dashboard/sfxs/" class="btn">Reupload SFX</a>
-    <a href="https://discord.gg/YyeZ2Sxjgf" class="btn">Discord Official</a>
-    <a href="/images/" class="btn">Gudang Punya Fless</a>
-    <a href="https://www.upload-apk.com/UqjVv2MrmkcDjVS" class="btn">Download APK FrGDPS</a>
-    <a href="https://github.com/ThDev2/FreedomGDPS/discussions/1" class="btn">Komentar GitHub</a>
-    <a href="https://github.com/ThDev2/FreedomGDPS" class="btn">Repo GitHub FrGDPS</a>
-    <a href="https://sociabuzz.com/ameliapt" class="btn">Dukung di SocialBuzz</a>
+    <main class="button-grid">
+      <a href="https://fless.ps.fhgdps.com" class="btn">Halaman Utama</a>
+      <a href="https://fless.ps.fhgdps.com/dashboard/" class="btn">Dashboard</a>
+      <a href="https://fless.ps.fhgdps.com/dashboard/songs/" class="btn">Reupload Lagu</a>
+      <a href="https://fless.ps.fhgdps.com/dashboard/sfxs/" class="btn">Reupload SFX</a>
+      <a href="https://discord.gg/YyeZ2Sxjgf" class="btn">Discord Official</a>
+      <a href="https://whatsapp.com/channel/0029Vb2YIzQHQbS0V7EXf434" class="btn">Gudang Punya Fless</a>
+      <a href="https://www.upload-apk.com/UqjVv2MrmkcDjVS" class="btn">Download APK FrGDPS</a>
+      <a href="https://github.com/ThDev2/FreedomGDPS/discussions/1" class="btn">Komentar GitHub</a>
+      <a href="https://github.com/ThDev2/FreedomGDPS" class="btn">Repo GitHub FrGDPS</a>
+      <a href="https://sociabuzz.com/ameliapt" class="btn">Dukung di SociaBuzz</a>
+    </main>
+
+    <footer>
+      Dibuat dengan <span class="heart">Cinta</span> oleh Amelia untuk seluruh Freedomers.<br/>
+      Spesial untuk: <strong>Fless</strong> lope lope :3
+    </footer>
   </div>
-
-  <footer>
-    Dibuat dengan <span class="heart">Cinta</span> Oleh Amelia Untuk Seluruh Freedomers.<br>
-    Spesial untuk: <strong>Fless</strong> lope lope :3
-  </footer>
+  <button id="scrollTopBtn" title="Kembali ke atas">⬆️</button>
+  <script src="script.js"></script>
 </body>
 </html>
