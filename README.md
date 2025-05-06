@@ -5,9 +5,9 @@
 
 ---
 
-## 💔 About FreedomGDPS
+## 💔 About FreedomGDPS!!11
 
-FreedomGDPS is not the most advanced server.  
+FreedomGDPS!!11 is not the most advanced server.  
 It's not the most active.  
 And sometimes... it's not even the most stable.  
 
@@ -43,7 +43,7 @@ Maybe you’ll find a little home here.
 ## 🧩 Links & Access
 
 - **Download APK**: [Click Here](https://www.upload-apk.com/UqjVv2MrmkcDjVS)  
-- **FGDBrowser**: [Explore](https://fless.ps.fhgdps.com/browser/)   
+- **FGD Tools**: [Explore](https://fless.rf.gd)   
 - **Database**: [Sometimes Works](https://fless.ps.fhgdps.com)
 - **GDPSHub**: [Rate Us Here](https://gdpshub.com/gdps/2924)
 
