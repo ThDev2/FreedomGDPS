@@ -78,7 +78,8 @@ Maybe you’ll find a little home here.
 
 We don’t ask for much. But if you want to help:
 
-- [Saweria (every donation counts)](https://saweria.co/thiosaputra)  
+- [Saweria (every donation counts)](https://saweria.co/thiosaputra) 
+- [SociaBuzz (every donation counts)](https://sociabuzz.com/ameliapt)  
 - [Newgrounds Profile](https://rotenfles777.newgrounds.com/)
 
 ---
